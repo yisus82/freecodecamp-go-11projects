@@ -1,4 +1,4 @@
-module freecodecamp-go-11projects
+module 02-movies-crud
 
 go 1.18
 
